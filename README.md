@@ -52,6 +52,5 @@
 
 <b>:fire: My Stats :</b>
 <br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varaeff&theme=transparent)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varaeff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varaeff&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varaeff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
