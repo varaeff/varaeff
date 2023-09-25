@@ -1,7 +1,6 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="150"/>
-</div>
-<div id="badges" align="center">
+  <br>
   <a href="https://www.linkedin.com/in/varaeff/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,10 +10,13 @@
   <a href="https://t.me/varaeff">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=varaeff&style=flat-square&color=blue" alt=""/>
+  <br>
+  <b>
+    Hi! I'm Serge, && I'm glad to see you here!
+  </b>
 </div>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=varaeff&style=flat-square&color=blue" alt=""/>
-    <h2>
-      Hi! I'm Serge, && I'm glad to see you here!
-    </h2>
-</div>
+
+---
+
