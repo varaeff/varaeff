@@ -1,4 +1,6 @@
 <div align="center">
+  <b>Hi! I'm Serge, && I'm glad to see you here!</b>
+  <br>
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="150"/>
   <br>
   <a href="https://www.linkedin.com/in/varaeff/">
@@ -12,8 +14,6 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=varaeff&style=flat-square&color=blue" alt=""/>
-  <br>
-  <b>Hi! I'm Serge, && I'm glad to see you here!</b>
 </div>
 
 ---
@@ -48,9 +48,4 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/GoogleSheets-%233472AC.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
 
----
-
-<b>:fire: My Stats :</b>
-<br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varaeff&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varaeff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
