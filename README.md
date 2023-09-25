@@ -48,3 +48,8 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/GoogleSheets-%233472AC.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
 
+---
+
+<b>:fire: My Stats :</b>
+<br><br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varaeff&theme=transparent)](https://git.io/streak-stats)
