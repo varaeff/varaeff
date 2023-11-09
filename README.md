@@ -47,5 +47,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='50px' />
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varaeff&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varaeff&layout=compact&theme=vision-friendly-dark)
