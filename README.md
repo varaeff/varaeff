@@ -18,7 +18,7 @@
 
 ---
 
-<b>:interrobang: About Me :</b>
+:interrobang: <b>About Me :</b>
 
 :white_check_mark: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -30,7 +30,7 @@
 
 ---
 
-<b>:hammer_and_wrench: Languages and Tools :</b>
+:hammer_and_wrench: <b>Languages and Tools :</b>
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='50px' />
