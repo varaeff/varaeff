@@ -20,7 +20,7 @@
 
 :interrobang: <b>About Me :</b>
 
-:white_check_mark: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+:white_check_mark: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 :white_check_mark: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
